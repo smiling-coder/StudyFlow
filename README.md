@@ -4,6 +4,7 @@ A study planner: track subjects, tasks and study sessions, and generate a simple
 
 ## Live demo
 Frontend: https://studyflow2-frontend.onrender.com
+
 Backend API docs: https://studyflow-2-221n.onrender.com/docs
 
 ## Structure
